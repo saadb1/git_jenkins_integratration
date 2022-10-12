@@ -9,3 +9,5 @@ sleep 1
 echo "hi lola"
 
 sleep 1
+
+echo "bye guys"
